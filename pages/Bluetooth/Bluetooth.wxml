@@ -1,0 +1,2 @@
+<button bindtap="open">开锁</button>
+<button bindtap="reConnect">重新连接</button>
